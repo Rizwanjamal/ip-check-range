@@ -1,22 +1,22 @@
 {
-    "name": "ip-check-range",
-    "version": "1.0.0",
-    "description": "Check whether an IP is in a range",
-    "repository": "Rizwanjamal/ip-check-range",
-    "main": "index.js",
-    "license": "MIT",
-    "keywords": [
-        "npm",
-        "ip",
-        "ipv4",
-        "IP",
-        "Address",
-        "CIDR",
-        "range",
-        "check"
-    ],
-    "author": {
-        "name": "Rizwan Jamal",
-        "url": "http://www.rizwanjamal.tk"
-    }
+  "name": "ip-check-range",
+  "version": "1.0.1",
+  "description": "Check whether an IP is in a range",
+  "repository": "Rizwanjamal/ip-check-range",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "ip",
+    "ipv4",
+    "IP",
+    "Address",
+    "CIDR",
+    "range",
+    "check"
+  ],
+  "author": {
+    "name": "Rizwan Jamal",
+    "url": "http://www.rizwanjamal.tk"
+  }
 }
