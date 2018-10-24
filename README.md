@@ -8,7 +8,7 @@
 [![NPM](https://nodei.co/npm/ip-check-range.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ip-check-range)
 
 
-Quickly parses IP addresses, allowing them to be checked for Range Matches.
+Allowing you to check request IP or anyother IP for Range Matches.
 
 ## Install
 
@@ -40,7 +40,4 @@ But before doing anything, please read the [CONTRIBUTING.md](./CONTRIBUTING.md) 
 [downloads-img]: https://img.shields.io/npm/dm/ip-check-range.svg
 
 [author-www-url]: http://www.rizwanjamal.tk
-[author-www-img]: https://img.shields.io/badge/www-tunnckocore.tk-fe7d37.svg
-
-[author-github-url]: https://github.com/tunnckoCore
-[author-github-img]: https://img.shields.io/badge/github-@tunnckoCore-4183c4.svg
+[author-www-img]: https://img.shields.io/badge/www-rizwanjamal.tk-fe7d37.svg

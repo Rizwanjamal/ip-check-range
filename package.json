@@ -1,6 +1,6 @@
 {
   "name": "ip-check-range",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Check whether an IP is in a range",
   "repository": "Rizwanjamal/ip-check-range",
   "main": "index.js",
@@ -11,9 +11,10 @@
     "ipv4",
     "IP",
     "Address",
-    "CIDR",
     "range",
-    "check"
+    "check",
+    "ip-check-range",
+    "ip-range"
   ],
   "author": {
     "name": "Rizwan Jamal",
